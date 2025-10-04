@@ -30,14 +30,14 @@ A Front-End Website about a architecture firm called "Arch Projections".
 
 ## 🚀 Live Demo
 [View Arch Projections Website](https://dionsh.github.io/arch-projections/)  
-*(Link will work once you enable GitHub Pages)*
+
 
 ---
 
 ## 📬 Contact
 Created by **Dion Sherifi**  
 - GitHub: [@dionsh](https://github.com/dionsh)  
-- Email: [YOUREMAIL@example.com](mailto:dionsherifi7@gmail.com)  
+- Email: (mailto:dionsherifi7@gmail.com)  
 
 ---
 ⭐️ If you like this project, give it a star on GitHub!
