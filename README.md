@@ -28,8 +28,8 @@ A Front-End Website about a architecture firm called "Arch Projections".
 
 ---
 
-## 🚀 Live Demo
-[View Arch Projections Website](https://dionsh.github.io/arch-projections/)  
+## 🚀 Live 
+[View Arch Projections Website](https://archprojections-dionsherifi.netlify.app/)  
 
 
 ---
